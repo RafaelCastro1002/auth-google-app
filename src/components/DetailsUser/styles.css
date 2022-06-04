@@ -1,0 +1,36 @@
+#details-user-card {
+    width: 30%;
+    margin: 70px auto;
+    background-color: rgb(231, 231, 231);
+    padding: 20px 50px 50px 50px;
+    border-radius: 5px;
+}
+
+#title-detais-user-card {
+    font-family: 'bold';
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#user-details-info {
+    text-align: left;
+    margin-top: 40px;
+    /* margin-left: 5em; */
+}
+
+#user-details-info p {
+    font-size: 125%;
+    font-family: 'regular';
+}
+
+.descrition-field-detais-info {
+    font-family: 'bold';
+}
+
+#user-photo-details {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    /* margin-left: 10px; */
+    border: 3px solid rgb(41, 41, 41);
+}
